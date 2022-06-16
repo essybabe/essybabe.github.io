@@ -1,0 +1,123 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    margin-left:6rem ;
+}
+.div1{
+    position: relative;
+    bottom: 30rem;
+    margin: 15px;
+    color: white;
+}
+h2{
+    font-family:cambria;
+    font-size: 60px;
+    font-weight: 400;
+    color: white;
+    position: relative;
+    top: -5rem;
+    bottom: 10rem;
+    padding: 20px;
+    text-align: justify;
+    margin-left: 5rem;
+
+
+}
+p{
+    color: white;
+    font-size:25px ;
+    position: relative;
+    top: -5rem;
+    margin-bottom: 30px;
+    margin-left: 6rem;
+
+}
+.flex-item-right {
+    padding: 10px;
+    flex: 50%;
+    width: 100px;
+    margin-left:50rem ;
+    position: relative;
+    bottom: 70rem;
+}
+
+.btn1{
+    padding: 20px;
+    width: 35rem;
+    background-color: rgb(76, 64, 115);
+    border: 2px solid rgb(76, 64, 115);
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+form{
+    padding:5rem;
+    width:25rem ;
+    margin: 1px;
+    border: 2px solid rgb(234, 67, 67);
+    border-radius: 5px;
+    background-color: white;
+    margin-bottom: 20px;
+}
+#f1{
+    padding: 20px;
+    width: 25rem;
+    border-radius: 5px;
+    margin: 5px;
+    font-size: 25px;
+    border: 1px solid rgb(234, 67, 67) ;
+    
+
+
+}
+.btn2{
+    padding: 20px;
+    width: 26rem;
+    background-color: green;
+    border: 2px solid  green;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+    cursor: pointer;
+
+}
+.p2{
+    color: black;
+    font-size: 12px;
+    text-align: center;
+    margin-bottom: 30px;
+    position: relative;
+    top: 2rem;
+    margin-left: 2rem;
+
+}
+#nameError{
+    position: relative;
+    left: 11rem;
+
+}
+#emailError{
+    position: relative;
+    left: 10rem;
+
+}
+#icon{
+    position: relative;
+    left: 24rem;
+}
+
+
+
+
+
+
+a{
+    color: rgb(244, 117, 117);
+   
+}
